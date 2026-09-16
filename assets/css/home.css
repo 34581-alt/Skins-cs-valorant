@@ -14,7 +14,7 @@ header{
 }
 section{
     width: 100%;
-    height: 35vh;
+    height: 37vh;
     float: left;
     padding: 1%;
 }
@@ -29,7 +29,7 @@ section{
     height: 30vh;
     background: #141414;
     margin-left: 1.6%;
-    margin-top: 0.5vh;
+    margin-top: -4.5vh;
     float: left;
     border-radius: 12px;
 }
@@ -38,7 +38,7 @@ section{
     height: 30vh;
     background: #141414;
     margin-left: 1.6%;
-    margin-top: 0.5vh;
+    margin-top: -4.5vh;
     float: left;
     border-radius: 12px;
 }
@@ -76,4 +76,23 @@ footer{
 }
 .baixo{
     margin-top: 6vh !important;
+}
+.game h1{
+    width: 100%;
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.6em;
+    margin-bottom: 3vh;
+    color: #fefefe;
+    position: relative;
+    top: -2vh;
+}
+#cs2 h1{
+    position: relative;
+    top: -2vh;
+}
+
+#valorant h1{
+    position: relative;
+    top: -2vh;
 }

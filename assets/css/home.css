@@ -20,6 +20,7 @@ section{
 }
 #cs2{
     background: #232323;
+    padding-top: 3vh;
 }
 #valorant{
     background: #232323;
@@ -89,7 +90,7 @@ footer{
 }
 #cs2 h1{
     position: relative;
-    top: -2vh;
+    top: -1.8vh;
 }
 
 #valorant h1{
